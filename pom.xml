@@ -10,6 +10,9 @@
   <modules>
     <module>cloud-eureka-server7001</module>
     <module>cloud-eureka-server7002</module>
+      <module>cloud-gateway-gateway9527</module>
+    <module>cloud-gateway-login80</module>
+    <module>cloud-gateway-loginservice8001</module>
   </modules>
 
   <properties>
