@@ -42,3 +42,19 @@ Tcloud-gateway-login80/src/main/java/com/chunping/springcloud/config/FeignConfig
 Ucloud-gateway-gateway9527/src/main/java/com/chunping/springcloud/GatewayMain9527.java,4/2/42a97a1e73e0249060237658cd87e666758a73d1
 Q
 !cloud-gateway-gateway9527/pom.xml,2/e/2ed2f819ce25069188be26af4d26dd2ff7cdf616
+O
+cloud-config-center3344/pom.xml,0/b/0b2a2fdb711bc11b447c68e3b21d62ff3fd9ab05
+h
+8cloud-gateway-login80/src/main/resources/application.yml,c/9/c90cdf3b37aac61c9402e67e94d4137dcf7f64e5
+ˆ
+Xcloud-config-center3344/src/main/java/com/chunping/springcloud/ConfigCenterMain3344.java,1/d/1d3fa2a6e464711503ed66a5da731247f292667f
+O
+cloud-config-client3355/pom.xml,7/6/7684b63e526300c40a0f310b26cff64c88525f33
+l
+<cloud-gateway-gateway9527/src/main/resources/application.yml,7/1/71d5e348c686d7b33dd96d975424c7e051b54e8d
+j
+:cloud-config-center3344/src/main/resources/application.yml,b/e/be269228c920b7841bf8e64e03cd044da21c3c0d
+ˆ
+Xcloud-config-client3355/src/main/java/com/chunping/springcloud/ConfigClientMain3355.java,a/f/af9b8b7e1131dbc170bcfb6e71d205823eb73a4e
+•
+ecloud-config-client3355/src/main/java/com/chunping/springcloud/controller/ConfigClientController.java,1/3/13d61298edb9cda76e60c8e3d352005b9cce8e95
